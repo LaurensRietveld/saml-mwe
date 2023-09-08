@@ -6,8 +6,5 @@
   "license": "MIT",
   "dependencies": {
     "@node-saml/passport-saml": "^4.0.4"
-  },
-  "resolutions": {
-  "@node-saml/node-saml": "4.0.4"
-}
+  }
 }
