@@ -1,0 +1,13 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@node-saml/passport-saml": "^4.0.4"
+  },
+  "resolutions": {
+  "@node-saml/node-saml": "4.0.4"
+}
+}
